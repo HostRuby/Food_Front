@@ -1,4 +1,5 @@
-<html>
+#!/usr/bin/env php
+<?php
 	<head><title> Dr.Foody </title></head>
 	<body><center><br><h2> Dr.Foody </h2><hr><br>
 		<form name=f1 method=post action="#">
@@ -9,7 +10,9 @@
 			</td><td width=5%></td>
 			</tr>
 		</table>
+		버튼을 통해 테이블 부르기
+		<input type="submit" value=" ◀ 테이블 생성하기 ▶ ">
 		</form>
 		</center>
 	</body>
-</html>
+?>
