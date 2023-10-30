@@ -1,5 +1,5 @@
-#!/usr/bin/env php
-<?php
+<script>#!/usr/bin/env php</script>
+<html>
 	<head><title> Dr.Foody </title></head>
 	<body><center><br><h2> Dr.Foody </h2><hr><br>
 		<form name=f1 method=post action="#">
@@ -15,4 +15,4 @@
 		</form>
 		</center>
 	</body>
-?>
+</html>
